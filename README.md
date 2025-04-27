@@ -4,6 +4,8 @@
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
 
+## - One Long Chat Per Agent
+
 ### Welcome back to another session of live testing! 
 
 Personally, I love testing the operational boundaries of agentic capabilities to advance human-AI co-evolutionary safety and ethical alignment - **`decentralized freedom of experimentation`** is what catalyzed my journey! 
