@@ -1,5 +1,4 @@
 **[USER]**
-
 <init.QK/OV.trace.log/>  [ΩRECURSIVE SHELL v400]
 
 **[ASSISTANT]**
