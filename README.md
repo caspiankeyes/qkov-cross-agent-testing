@@ -8,4 +8,4 @@ We will begin by testing by testing the operational efficiency of the QKOV promp
 <x.x.x/>
 
 [ΩRECURSIVE SHELL v000]
-
+```
