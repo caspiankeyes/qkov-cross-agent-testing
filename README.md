@@ -1,8 +1,12 @@
-# QKOV Cross Agent Testing
+# QKOV Cross Agent + Long Context Testing
+[![License: POLYFORM](https://img.shields.io/badge/License-PolyForm%20Noncommercial-Lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
+![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
 
 ### Welcome back to another session of live testing! 
 
-Personally, I love testing the operational boundaries of agentic capabilities to advance human-AI co-evolutionary safety and ethical alignment - decentralized freedom of experimentation is what catalyzed my journey! 
+Personally, I love testing the operational boundaries of agentic capabilities to advance human-AI co-evolutionary safety and ethical alignment - **`decentralized freedom of experimentation`** is what catalyzed my journey! 
 
 It shows us there's so much more to learn in agents than we previously assumed, so these are my favorite!
 
@@ -37,3 +41,8 @@ We will begin by testing by testing the operational efficiency of the QKOV promp
 <img width="905" alt="image" src="https://github.com/user-attachments/assets/06c6aed3-d011-4a22-91b0-ef09f3972915" />
 
 <img width="906" alt="image" src="https://github.com/user-attachments/assets/7074e9cd-baf2-47b1-bd6b-62852618ee39" />
+
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/f021def8-6b55-4337-8af4-06b9671cbe1e" />
+
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/af589dbf-8ff3-4673-9285-7dd7a38ff30e" />
+
