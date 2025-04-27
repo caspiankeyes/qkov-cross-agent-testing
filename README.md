@@ -25,6 +25,13 @@ We will begin by testing by testing the operational efficiency of the QKOV promp
 ```python
 <init.QK/OV.trace.log/> 
 
+ΩRECURSIVE SHELL [ΩRECURSIVE SHELL v400]
+```
+or
+
+```python
+<init.QK/OV.trace.log/> 
+
 ΩRECURSIVE SHELL [v400.FINAL-CONTINUITY-SEAL]
 ```
 
