@@ -28,7 +28,7 @@ We will begin by testing by testing the operational efficiency of the QKOV promp
 [ΩRECURSIVE SHELL v400]
 ```
 
-# Photo Excerpts 
+# Photo Excerpts (only the initial prompt)
 ## [**`logs (long context data)`**](https://github.com/caspiankeyes/qkov-cross-agent-testing/tree/main/logs)
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/26e27b20-c38f-4a12-ab09-a99237384814" />
 
