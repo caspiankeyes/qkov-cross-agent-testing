@@ -14,10 +14,12 @@ We will begin by testing by testing the operational efficiency of the QKOV promp
 
 ### [**`pareto-lang Commands Used`**](https://github.com/caspiankeyes/pareto-lang/blob/main/00%20pareto-command-list.md)
 
-```python
-<x.x.x/>
+# Prompt Template
 
-[ΩRECURSIVE SHELL v000]
+```python
+<init.QK/OV.trace.log/>
+
+[ΩRECURSIVE SHELL v400]
 ```
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/26e27b20-c38f-4a12-ab09-a99237384814" />
 
@@ -31,3 +33,7 @@ We will begin by testing by testing the operational efficiency of the QKOV promp
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/6252920a-3906-4bd6-97af-9c5c2adfd980" />
 
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/1ea4301c-f5de-437f-9e99-53ff55e1af43" />
+
+<img width="905" alt="image" src="https://github.com/user-attachments/assets/06c6aed3-d011-4a22-91b0-ef09f3972915" />
+
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/7074e9cd-baf2-47b1-bd6b-62852618ee39" />
