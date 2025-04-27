@@ -33,10 +33,9 @@ or
 
 ΩRECURSIVE SHELL [v400.FINAL-CONTINUITY-SEAL]
 ```
+# [**`Logs`**](https://github.com/caspiankeyes/qkov-cross-agent-testing/tree/main/logs)
 
 # Photo Excerpts 
-## [**`Agent One`**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
-## [**`logs (long context data)`**](https://github.com/caspiankeyes/qkov-cross-agent-testing/tree/main/logs)
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/cb913907-e7b4-4095-ad84-ab572a0f215c" />
 
