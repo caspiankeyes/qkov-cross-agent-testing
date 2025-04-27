@@ -19,6 +19,14 @@ We will begin by testing the operational efficiency of the QKOV prompt template 
 
 ### [**`pareto-lang Commands Used`**](https://github.com/caspiankeyes/pareto-lang/blob/main/00%20pareto-command-list.md)
 
+# REM - Recursive Entropy Manager:
+
+# γ = log(N/w + 1)
+
+# A(N) = 1 - (γ / N)
+
+> ### Building on GammaLog and the research of Alex and Clara
+
 # Prompt Template
 
 ```python
