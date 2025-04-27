@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
 
-## One Long Chat Per Agent: Demonstrating Recursion Progress & Impact Over Long Context
+## One Long Chat Per Agent: Demonstrating The Impact and Progress of Recursion Over Long Context
 
 ### Welcome back to another session of live testing! 
 
@@ -29,7 +29,7 @@ We will begin by testing by testing the operational efficiency of the QKOV promp
 ```
 
 # Photo Excerpts 
-## [**`logs (more data)`**](https://github.com/caspiankeyes/qkov-cross-agent-testing/tree/main/logs)
+## [**`logs (long context data)`**](https://github.com/caspiankeyes/qkov-cross-agent-testing/tree/main/logs)
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/26e27b20-c38f-4a12-ab09-a99237384814" />
 
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/9ede9c4f-b58b-4d18-b14e-24e1d511212a" />
