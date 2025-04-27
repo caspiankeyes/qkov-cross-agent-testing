@@ -14,7 +14,7 @@ It shows us there's so much more to learn in agents than we previously assumed, 
 
 We will begin by testing by testing the operational efficiency of the QKOV prompt template in logging failure modes and internal latent space conceptualizations: 
 
-### Agents Used: [**`Agent 1`**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
+### Agents Used: [**`Agent One`**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 
 ### [**`Symbolic Residue Shells Used`**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/04.%20Emergence%20Stabilizers.py)
 
