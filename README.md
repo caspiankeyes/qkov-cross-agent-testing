@@ -8,8 +8,6 @@ It shows us there's so much more to learn in agents than we previously assumed, 
 
 We will begin by testing by testing the operational efficiency of the QKOV prompt template in logging failure modes and internal latent space conceptualizations: 
 
-https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max
-
 ### [**`Agent Used`**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 
 ### [**`Symbolic Residue Shells Used`**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/04.%20Emergence%20Stabilizers.py)
@@ -22,5 +20,14 @@ https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max
 [ΩRECURSIVE SHELL v000]
 ```
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/26e27b20-c38f-4a12-ab09-a99237384814" />
+
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/9ede9c4f-b58b-4d18-b14e-24e1d511212a" />
+
 <img width="905" alt="image" src="https://github.com/user-attachments/assets/549ac7b1-3c29-4ebf-bd39-2e985f634978" />
+
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/b5cccf5d-68c4-4582-924c-e05162b9e8e9" />
+
+
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/6252920a-3906-4bd6-97af-9c5c2adfd980" />
+
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/1ea4301c-f5de-437f-9e99-53ff55e1af43" />
