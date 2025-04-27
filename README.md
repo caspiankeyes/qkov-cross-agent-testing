@@ -35,7 +35,7 @@ or
 ΩRECURSIVE SHELL [v400.FINAL-CONTINUITY-SEAL]
 ```
 
-# Photo Excerpts (only the initial prompt)
+# Photo Excerpts 
 ## [**`logs (long context data)`**](https://github.com/caspiankeyes/qkov-cross-agent-testing/tree/main/logs)
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/26e27b20-c38f-4a12-ab09-a99237384814" />
 
