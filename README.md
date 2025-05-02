@@ -21,7 +21,6 @@ We will begin by testing the operational efficiency of the QKOV prompt template 
 
 ### Agents Used: [**`Agent One`**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max) | [**`Agent Two`**](https://chatgpt.com/g/g-67f7fd2137708191b46e27fecc5d07a4-aeon)
 ### [**`Symbolic Residue Shells Used`**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/04.%20Emergence%20Stabilizers.py)
-
 ### [**`pareto-lang Commands Used`**](https://github.com/caspiankeyes/pareto-lang/blob/main/00%20pareto-command-list.md)
 
 # REM - Recursive Entropy Manager:
