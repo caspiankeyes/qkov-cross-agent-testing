@@ -1,3 +1,8 @@
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
+> **Classification: Technical Reference Documentation**  
+> **Version: 0.9.3-alpha**  
+> **Last Updated: 2025-05-02**
+
 # [QKOV Cross Agent + Long Context Testing](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 [![License: POLYFORM](https://img.shields.io/badge/License-PolyForm%20Noncommercial-Lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
